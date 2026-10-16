@@ -1,0 +1,16 @@
+FILE: fried_wings.jpg
+NAME: Fried Wings
+PROMPT: golden crispy fried chicken wings pile, served in a basket with dip, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: grilled_wings.jpg
+NAME: Grilled Wings
+PROMPT: grilled chicken wings with char marks and smoky glaze, served on a plate with dip, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: saucy_spicy_wings.jpg
+NAME: Saucy Spicy Wings
+PROMPT: chicken wings tossed in glossy red spicy hot sauce, sesame and herbs garnish, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: chicken_nuggets.jpg
+NAME: Chicken Nuggets
+PROMPT: golden crispy chicken nuggets in a basket with ketchup dip, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

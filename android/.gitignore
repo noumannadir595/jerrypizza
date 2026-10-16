@@ -1,0 +1,45 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+
+# Android
+android/.gradle/
+android/key.properties
+android/*.jks
+android/local.properties
+android/app/google-services.json
+android/captures/
+android/app/build/
+android/build/
+
+# Java Heap Dumps
+*.hprof
+hs_err_pid*.log
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
+# macOS
+macos/Flutter/ephemeral/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / Secrets
+*.env
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa

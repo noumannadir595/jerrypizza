@@ -1,0 +1,20 @@
+FILE: big_zinger.jpg
+NAME: Big Zinger
+PROMPT: large crispy fried chicken zinger burger with lettuce, tomato, cheese slice and mayo, sesame bun, served on a tray, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: junior_zinger.jpg
+NAME: Junior Zinger
+PROMPT: medium crispy chicken zinger burger with lettuce and mayo in a sesame bun, side view, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: crispy_crunch.jpg
+NAME: Crispy Crunch
+PROMPT: extra crunchy fried chicken burger with melted cheese, lettuce and special sauce, tall layered, side view, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: chicken_reggy.jpg
+NAME: Chicken Reggy
+PROMPT: simple chicken patty burger with lettuce, mayo and a soft bun, side view, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: juicy_and_crunchy.jpg
+NAME: Juicy & Crunchy
+PROMPT: jumbo double-layer crispy chicken burger with extra cheese slice, lettuce, sauce dripping, very large, side view, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

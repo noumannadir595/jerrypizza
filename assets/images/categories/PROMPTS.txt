@@ -1,0 +1,44 @@
+FILE: best_pizza.jpg
+NAME: Best Pizzas
+PROMPT: premium stuffed crust pizza hero shot, top-down, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: regular_pizza.jpg
+NAME: Regular Pizzas
+PROMPT: classic chicken tikka pizza slice being pulled with cheese stretch, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: burger.jpg
+NAME: Burgers
+PROMPT: crispy chicken zinger burger hero shot, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: wings_nuggets.jpg
+NAME: Wings & Nuggets
+PROMPT: mix of fried wings and nuggets in a basket, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: wraps.jpg
+NAME: Wraps
+PROMPT: chicken shawarma and paratha rolls together, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: fries.jpg
+NAME: Chips & Dips
+PROMPT: loaded fries and plain fries together, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: sauces.jpg
+NAME: Sauces
+PROMPT: three colorful dip sauces in small bowls, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: pasta.jpg
+NAME: Pasta
+PROMPT: creamy macaroni pasta bowl, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: sandwich.jpg
+NAME: Sandwich
+PROMPT: club sandwich and chicken cheese sandwich, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: new_arrival.jpg
+NAME: New Arrival
+PROMPT: square pizza and pizza pratha together, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: drinks.jpg
+NAME: Drinks & Ice Cream
+PROMPT: cola bottles and ice cream cup together, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

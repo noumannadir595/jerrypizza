@@ -1,0 +1,84 @@
+FILE: deal_01.jpg
+NAME: Deal # 01
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Large, 1 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_02.jpg
+NAME: Deal # 02
+PROMPT: combo deal food photo showing together: Jerry Special Pizza Large, 1 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_03.jpg
+NAME: Deal # 03
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza XL, 1.5 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_04.jpg
+NAME: Deal # 04
+PROMPT: combo deal food photo showing together: 2 Chicken Tikka Pizza Large, 1.5 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_05.jpg
+NAME: Deal # 05
+PROMPT: combo deal food photo showing together: 2 Chicken Tikka Pizza Small, 1 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_06.jpg
+NAME: Deal # 06
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Large, 10 Hot Wings, 1 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_07.jpg
+NAME: Deal # 07
+PROMPT: combo deal food photo showing together: Jerry Special Pizza Medium, 2 Zinger Burger, 1 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_08.jpg
+NAME: Deal # 08
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Large, Fajita Pizza Small, 1.5 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_09.jpg
+NAME: Deal # 09
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Medium, 500ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_10.jpg
+NAME: Deal # 10
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Large, 2 Zinger Burger + Large Fries, 1.5 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_11.jpg
+NAME: Deal # 11
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Small, Zinger Burger, 345ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_12.jpg
+NAME: Deal # 12
+PROMPT: combo deal food photo showing together: Junior Zinger Burger, Small Fries, 345ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_13.jpg
+NAME: Deal # 13
+PROMPT: combo deal food photo showing together: 4 Junior Zinger Burger, 1.5 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_14.jpg
+NAME: Deal # 14
+PROMPT: combo deal food photo showing together: 2 Junior Zinger Burger, 2 345ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_15.jpg
+NAME: Deal # 15
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Large, 1 Crunchy Pasta Small, 1 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_16.jpg
+NAME: Deal # 16
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Small, Macroni Pasta Small, 345ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_17.jpg
+NAME: Deal # 17
+PROMPT: combo deal food photo showing together: Chicken Tikka Pizza Small, 345ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_18.jpg
+NAME: Deal # 18
+PROMPT: combo deal food photo showing together: 2 Chicken Shawarma, 2 345ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_19.jpg
+NAME: Deal # 19
+PROMPT: combo deal food photo showing together: Zinger Pratha / Shawarma, Small Fries, 345ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_20.jpg
+NAME: Deal # 20
+PROMPT: combo deal food photo showing together: 10 Fried Hot Wings, Junior Zinger Burger, 345ml Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: deal_21.jpg
+NAME: Deal # 21 (Mufta)
+PROMPT: combo deal food photo showing together: Large Pizza Any Flavour, 2 Junior Zinger Burger, Macroni Pasta Small, 5 Nuggets, 1.5 Liter Drink, arranged neatly on a dark table, pizza top-down with the other items beside it, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

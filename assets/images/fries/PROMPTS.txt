@@ -1,0 +1,16 @@
+FILE: plain_fries.jpg
+NAME: Plain Fries
+PROMPT: golden french fries in a red paper container, lightly salted, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: matka_fries.jpg
+NAME: Matka Fries
+PROMPT: large clay matka pot overflowing with fries topped with chicken, cheese sauce and mayo drizzle, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: masala_fries.jpg
+NAME: Masala Fries
+PROMPT: french fries tossed in red spicy masala seasoning with coriander garnish, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: loaded_fries.jpg
+NAME: Loaded Fries
+PROMPT: fries loaded with melted cheese sauce, crispy chicken pieces, jalapenos and mayo drizzle, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

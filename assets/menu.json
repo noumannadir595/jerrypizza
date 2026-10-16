@@ -1,0 +1,780 @@
+{
+  "restaurant": {
+    "name": "Jerry Pizza",
+    "tagline": "Family Restaurant",
+    "address": "Pakpattan Chowk, Sahiwal",
+    "phones": ["0314-3636434", "0309-9699986"],
+    "deliveryNote": "Free delivery in 2 km area, minimum order 700/-"
+  },
+  "categories": [
+    {
+      "id": "best_pizza",
+      "name": "Best Pizzas",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/best_pizza.jpg"
+    },
+    {
+      "id": "regular_pizza",
+      "name": "Regular Pizzas",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/regular_pizza.jpg"
+    },
+    {
+      "id": "burger",
+      "name": "Burgers",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/burger.jpg"
+    },
+    {
+      "id": "wings_nuggets",
+      "name": "Wings & Nuggets",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/wings_nuggets.jpg"
+    },
+    {
+      "id": "wraps",
+      "name": "Wraps",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/wraps.jpg"
+    },
+    {
+      "id": "fries",
+      "name": "Chips & Dips",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/fries.jpg"
+    },
+    {
+      "id": "sauces",
+      "name": "Sauces",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/sauces.jpg"
+    },
+    {
+      "id": "pasta",
+      "name": "Pasta",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/pasta.jpg"
+    },
+    {
+      "id": "sandwich",
+      "name": "Sandwich",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/sandwich.jpg"
+    },
+    {
+      "id": "new_arrival",
+      "name": "New Arrival",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/new_arrival.jpg"
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks & Ice Cream",
+      "imageUrl": "",
+      "imagePath": "assets/images/categories/drinks.jpg"
+    }
+  ],
+  "items": [
+    {
+      "category": "best_pizza",
+      "name": "Jerry's Special",
+      "description": "Edge Filling With Chicken & Cheese, Pizza Sauce, Tikka Chicken, Cheese, Tomatoes, Capsicum, Black Olives, Sesame Seeds, Special Sauce, Onions, Sweet Corns.",
+      "variants": [
+        {"label": "S", "price": 699},
+        {"label": "M", "price": 1230},
+        {"label": "L", "price": 1850},
+        {"label": "XL", "price": 2349}
+      ],
+      "imageUrl": "",
+      "id": "best_pizza_jerrys_special",
+      "imagePath": "assets/images/best_pizza/jerrys_special.jpg"
+    },
+    {
+      "category": "best_pizza",
+      "name": "Yummy Malai Boti",
+      "description": "Edge Filling With Chicken & Sauce, Pizza Sauce, Malai Boti Chicken, Cheese, Tomatoes, Sesame Seeds, Special Sauce, Black Olives, Mushrooms.",
+      "variants": [
+        {"label": "S", "price": 699},
+        {"label": "M", "price": 1230},
+        {"label": "L", "price": 1850},
+        {"label": "XL", "price": 2349}
+      ],
+      "imageUrl": "",
+      "id": "best_pizza_yummy_malai_boti",
+      "imagePath": "assets/images/best_pizza/yummy_malai_boti.jpg"
+    },
+    {
+      "category": "best_pizza",
+      "name": "Behari Kebab",
+      "description": "Pizza Sauce, Tikka Chicken, Cheese, Kebab, Tomatoes, Capsicum, Black Olives, Special Sauce.",
+      "variants": [
+        {"label": "S", "price": 699},
+        {"label": "M", "price": 1230},
+        {"label": "L", "price": 1850},
+        {"label": "XL", "price": 2349}
+      ],
+      "imageUrl": "",
+      "id": "best_pizza_behari_kebab",
+      "imagePath": "assets/images/best_pizza/behari_kebab.jpg"
+    },
+    {
+      "category": "best_pizza",
+      "name": "Bubble Cheese Stuffer",
+      "description": "Edge Filled With Cheese, Tikka Chicken, Red Jalapeno, Special Sauce, Cheese, Tomatoes, Capsicum, Onions, Black Olives.",
+      "variants": [
+        {"label": "S", "price": 699},
+        {"label": "M", "price": 1230},
+        {"label": "L", "price": 1850},
+        {"label": "XL", "price": 2349}
+      ],
+      "imageUrl": "",
+      "id": "best_pizza_bubble_cheese_stuffer",
+      "imagePath": "assets/images/best_pizza/bubble_cheese_stuffer.jpg"
+    },
+    {
+      "category": "best_pizza",
+      "name": "Crispy Crunch Pizza",
+      "description": "Special Sauce, Crunchy Zinger Chicken, Cheese, Green Jalapeno, Capsicum, Mushroom, Special Sauce Topping.",
+      "variants": [
+        {"label": "S", "price": 699},
+        {"label": "M", "price": 1230},
+        {"label": "L", "price": 1850},
+        {"label": "XL", "price": 2349}
+      ],
+      "imageUrl": "",
+      "id": "best_pizza_crispy_crunch_pizza",
+      "imagePath": "assets/images/best_pizza/crispy_crunch_pizza.jpg"
+    },
+    {
+      "category": "best_pizza",
+      "name": "Cheese & Pepperoni",
+      "description": "Special Sauce, Chicken Pepperoni, Cheese, Kebab, Capsicum, Black Olives.",
+      "variants": [
+        {"label": "S", "price": 699},
+        {"label": "M", "price": 1230},
+        {"label": "L", "price": 1850},
+        {"label": "XL", "price": 2349}
+      ],
+      "imageUrl": "",
+      "id": "best_pizza_cheese_and_pepperoni",
+      "imagePath": "assets/images/best_pizza/cheese_and_pepperoni.jpg"
+    },
+    {
+      "category": "regular_pizza",
+      "name": "Chicken Tikka",
+      "description": "Pizza Sauce, Tikka Chicken, Cheese, Tomatoes, Capsicum, Black Olives, Onions.",
+      "variants": [
+        {"label": "S", "price": 499},
+        {"label": "M", "price": 1050},
+        {"label": "L", "price": 1299},
+        {"label": "XL", "price": 1849}
+      ],
+      "imageUrl": "",
+      "id": "regular_pizza_chicken_tikka",
+      "imagePath": "assets/images/regular_pizza/chicken_tikka.jpg"
+    },
+    {
+      "category": "regular_pizza",
+      "name": "Chicken Fajita",
+      "description": "Pizza Sauce, Fajita Chicken, Cheese, Capsicum, Green Jalapeno, Mushrooms, Onions.",
+      "variants": [
+        {"label": "S", "price": 499},
+        {"label": "M", "price": 1050},
+        {"label": "L", "price": 1299},
+        {"label": "XL", "price": 1849}
+      ],
+      "imageUrl": "",
+      "id": "regular_pizza_chicken_fajita",
+      "imagePath": "assets/images/regular_pizza/chicken_fajita.jpg"
+    },
+    {
+      "category": "regular_pizza",
+      "name": "Hot & Spicy",
+      "description": "Pizza Sauce, Spicy Chicken, Cheese, Capsicum, Red Jalapeno.",
+      "variants": [
+        {"label": "S", "price": 499},
+        {"label": "M", "price": 1050},
+        {"label": "L", "price": 1299},
+        {"label": "XL", "price": 1849}
+      ],
+      "imageUrl": "",
+      "id": "regular_pizza_hot_and_spicy",
+      "imagePath": "assets/images/regular_pizza/hot_and_spicy.jpg"
+    },
+    {
+      "category": "regular_pizza",
+      "name": "Picklish Tikka",
+      "description": "Picklish Sauce, Tikka Chicken, Cheese, Tomatoes, Capsicum, Onions, Black Olives.",
+      "variants": [
+        {"label": "S", "price": 499},
+        {"label": "M", "price": 1050},
+        {"label": "L", "price": 1299},
+        {"label": "XL", "price": 1849}
+      ],
+      "imageUrl": "",
+      "id": "regular_pizza_picklish_tikka",
+      "imagePath": "assets/images/regular_pizza/picklish_tikka.jpg"
+    },
+    {
+      "category": "regular_pizza",
+      "name": "Cheese & Kebab",
+      "description": "Special Sauce, Seekh Kebab, Cheese, Black Olives, Capsicum, Onions.",
+      "variants": [
+        {"label": "S", "price": 499},
+        {"label": "M", "price": 1050},
+        {"label": "L", "price": 1299},
+        {"label": "XL", "price": 1849}
+      ],
+      "imageUrl": "",
+      "id": "regular_pizza_cheese_and_kebab",
+      "imagePath": "assets/images/regular_pizza/cheese_and_kebab.jpg"
+    },
+    {
+      "category": "regular_pizza",
+      "name": "Bar.B.Q Tikka",
+      "description": "Pizza Sauce, Seekh Kebab, Tikka Chicken, Cheese, Black Olives, Capsicum.",
+      "variants": [
+        {"label": "S", "price": 499},
+        {"label": "M", "price": 1050},
+        {"label": "L", "price": 1299},
+        {"label": "XL", "price": 1849}
+      ],
+      "imageUrl": "",
+      "id": "regular_pizza_bar_b_q_tikka",
+      "imagePath": "assets/images/regular_pizza/bar_b_q_tikka.jpg"
+    },
+    {
+      "category": "burger",
+      "name": "Big Zinger",
+      "description": "",
+      "variants": [{"label": "Single", "price": 450}],
+      "imageUrl": "",
+      "id": "burger_big_zinger",
+      "imagePath": "assets/images/burger/big_zinger.jpg"
+    },
+    {
+      "category": "burger",
+      "name": "Junior Zinger",
+      "description": "",
+      "variants": [{"label": "Single", "price": 349}],
+      "imageUrl": "",
+      "id": "burger_junior_zinger",
+      "imagePath": "assets/images/burger/junior_zinger.jpg"
+    },
+    {
+      "category": "burger",
+      "name": "Crispy Crunch",
+      "description": "",
+      "variants": [{"label": "Single", "price": 450}],
+      "imageUrl": "",
+      "id": "burger_crispy_crunch",
+      "imagePath": "assets/images/burger/crispy_crunch.jpg"
+    },
+    {
+      "category": "burger",
+      "name": "Chicken Reggy",
+      "description": "",
+      "variants": [{"label": "Single", "price": 299}],
+      "imageUrl": "",
+      "id": "burger_chicken_reggy",
+      "imagePath": "assets/images/burger/chicken_reggy.jpg"
+    },
+    {
+      "category": "burger",
+      "name": "Juicy & Crunchy",
+      "description": "Add Cheese Slice In Just 50/- Rupee",
+      "variants": [{"label": "Single", "price": 599}],
+      "imageUrl": "",
+      "id": "burger_juicy_and_crunchy",
+      "imagePath": "assets/images/burger/juicy_and_crunchy.jpg"
+    },
+    {
+      "category": "wings_nuggets",
+      "name": "Fried Wings",
+      "description": "",
+      "variants": [
+        {"label": "5 pc", "price": 279},
+        {"label": "10 pc", "price": 549}
+      ],
+      "imageUrl": "",
+      "id": "wings_nuggets_fried_wings",
+      "imagePath": "assets/images/wings_nuggets/fried_wings.jpg"
+    },
+    {
+      "category": "wings_nuggets",
+      "name": "Grilled Wings",
+      "description": "",
+      "variants": [
+        {"label": "5 pc", "price": 309},
+        {"label": "10 pc", "price": 599}
+      ],
+      "imageUrl": "",
+      "id": "wings_nuggets_grilled_wings",
+      "imagePath": "assets/images/wings_nuggets/grilled_wings.jpg"
+    },
+    {
+      "category": "wings_nuggets",
+      "name": "Saucy Spicy Wings",
+      "description": "",
+      "variants": [
+        {"label": "5 pc", "price": 329},
+        {"label": "10 pc", "price": 649}
+      ],
+      "imageUrl": "",
+      "id": "wings_nuggets_saucy_spicy_wings",
+      "imagePath": "assets/images/wings_nuggets/saucy_spicy_wings.jpg"
+    },
+    {
+      "category": "wings_nuggets",
+      "name": "Chicken Nuggets",
+      "description": "",
+      "variants": [
+        {"label": "5 pc", "price": 269},
+        {"label": "10 pc", "price": 499}
+      ],
+      "imageUrl": "",
+      "id": "wings_nuggets_chicken_nuggets",
+      "imagePath": "assets/images/wings_nuggets/chicken_nuggets.jpg"
+    },
+    {
+      "category": "wraps",
+      "name": "Kebab Pratha",
+      "description": "",
+      "variants": [{"label": "Single", "price": 319}],
+      "imageUrl": "",
+      "id": "wraps_kebab_pratha",
+      "imagePath": "assets/images/wraps/kebab_pratha.jpg"
+    },
+    {
+      "category": "wraps",
+      "name": "Zinger Pratha",
+      "description": "",
+      "variants": [{"label": "Single", "price": 299}],
+      "imageUrl": "",
+      "id": "wraps_zinger_pratha",
+      "imagePath": "assets/images/wraps/zinger_pratha.jpg"
+    },
+    {
+      "category": "wraps",
+      "name": "Cheese Pratha",
+      "description": "",
+      "variants": [{"label": "Single", "price": 349}],
+      "imageUrl": "",
+      "id": "wraps_cheese_pratha",
+      "imagePath": "assets/images/wraps/cheese_pratha.jpg"
+    },
+    {
+      "category": "wraps",
+      "name": "Zinger Shawarma",
+      "description": "",
+      "variants": [{"label": "Single", "price": 280}],
+      "imageUrl": "",
+      "id": "wraps_zinger_shawarma",
+      "imagePath": "assets/images/wraps/zinger_shawarma.jpg"
+    },
+    {
+      "category": "wraps",
+      "name": "Chicken Shawarma",
+      "description": "",
+      "variants": [{"label": "Single", "price": 249}],
+      "imageUrl": "",
+      "id": "wraps_chicken_shawarma",
+      "imagePath": "assets/images/wraps/chicken_shawarma.jpg"
+    },
+    {
+      "category": "fries",
+      "name": "Plain Fries",
+      "description": "",
+      "variants": [
+        {"label": "Small", "price": 199},
+        {"label": "Large", "price": 349}
+      ],
+      "imageUrl": "",
+      "id": "fries_plain_fries",
+      "imagePath": "assets/images/fries/plain_fries.jpg"
+    },
+    {
+      "category": "fries",
+      "name": "Matka Fries",
+      "description": "",
+      "variants": [{"label": "Single", "price": 749}],
+      "imageUrl": "",
+      "id": "fries_matka_fries",
+      "imagePath": "assets/images/fries/matka_fries.jpg"
+    },
+    {
+      "category": "fries",
+      "name": "Masala Fries",
+      "description": "",
+      "variants": [{"label": "Single", "price": 349}],
+      "imageUrl": "",
+      "id": "fries_masala_fries",
+      "imagePath": "assets/images/fries/masala_fries.jpg"
+    },
+    {
+      "category": "fries",
+      "name": "Loaded Fries",
+      "description": "",
+      "variants": [{"label": "Single", "price": 599}],
+      "imageUrl": "",
+      "id": "fries_loaded_fries",
+      "imagePath": "assets/images/fries/loaded_fries.jpg"
+    },
+    {
+      "category": "sauces",
+      "name": "Sauce (Garlic Mayo / Picklish / Special)",
+      "description": "",
+      "variants": [{"label": "Single", "price": 50}],
+      "imageUrl": "",
+      "id": "sauces_sauce_garlic_mayo_picklish_special",
+      "imagePath": "assets/images/sauces/sauce_garlic_mayo_picklish_special.jpg"
+    },
+    {
+      "category": "pasta",
+      "name": "Cheese Macroni Pasta",
+      "description": "",
+      "variants": [
+        {"label": "Half", "price": 399},
+        {"label": "Full", "price": 749}
+      ],
+      "imageUrl": "",
+      "id": "pasta_cheese_macroni_pasta",
+      "imagePath": "assets/images/pasta/cheese_macroni_pasta.jpg"
+    },
+    {
+      "category": "pasta",
+      "name": "Crunchy Pasta",
+      "description": "",
+      "variants": [
+        {"label": "Half", "price": 449},
+        {"label": "Full", "price": 799}
+      ],
+      "imageUrl": "",
+      "id": "pasta_crunchy_pasta",
+      "imagePath": "assets/images/pasta/crunchy_pasta.jpg"
+    },
+    {
+      "category": "pasta",
+      "name": "Chicken Spicy Macroni",
+      "description": "",
+      "variants": [
+        {"label": "Half", "price": 350},
+        {"label": "Full", "price": 649}
+      ],
+      "imageUrl": "",
+      "id": "pasta_chicken_spicy_macroni",
+      "imagePath": "assets/images/pasta/chicken_spicy_macroni.jpg"
+    },
+    {
+      "category": "sandwich",
+      "name": "Chicken Cheese",
+      "description": "",
+      "variants": [{"label": "Single", "price": 249}],
+      "imageUrl": "",
+      "id": "sandwich_chicken_cheese",
+      "imagePath": "assets/images/sandwich/chicken_cheese.jpg"
+    },
+    {
+      "category": "sandwich",
+      "name": "Chicken Club",
+      "description": "",
+      "variants": [{"label": "Single", "price": 219}],
+      "imageUrl": "",
+      "id": "sandwich_chicken_club",
+      "imagePath": "assets/images/sandwich/chicken_club.jpg"
+    },
+    {
+      "category": "sandwich",
+      "name": "Jerry's Special Sandwich",
+      "description": "",
+      "variants": [{"label": "Single", "price": 300}],
+      "imageUrl": "",
+      "id": "sandwich_jerrys_special_sandwich",
+      "imagePath": "assets/images/sandwich/jerrys_special_sandwich.jpg"
+    },
+    {
+      "category": "sandwich",
+      "name": "3 Cheese Bread",
+      "description": "",
+      "variants": [{"label": "Single", "price": 199}],
+      "imageUrl": "",
+      "id": "sandwich_3_cheese_bread",
+      "imagePath": "assets/images/sandwich/3_cheese_bread.jpg"
+    },
+    {
+      "category": "new_arrival",
+      "name": "Special Pizza Pratha",
+      "description": "",
+      "variants": [{"label": "Single", "price": 449}],
+      "imageUrl": "",
+      "id": "new_arrival_special_pizza_pratha",
+      "imagePath": "assets/images/new_arrival/special_pizza_pratha.jpg"
+    },
+    {
+      "category": "new_arrival",
+      "name": "Shawarma Pizza",
+      "description": "",
+      "variants": [{"label": "Single", "price": 299}],
+      "imageUrl": "",
+      "id": "new_arrival_shawarma_pizza",
+      "imagePath": "assets/images/new_arrival/shawarma_pizza.jpg"
+    },
+    {
+      "category": "new_arrival",
+      "name": "Delight Shawarma",
+      "description": "",
+      "variants": [{"label": "Single", "price": 349}],
+      "imageUrl": "",
+      "id": "new_arrival_delight_shawarma",
+      "imagePath": "assets/images/new_arrival/delight_shawarma.jpg"
+    },
+    {
+      "category": "new_arrival",
+      "name": "Square Pizza Large",
+      "description": "",
+      "variants": [{"label": "Large", "price": 1899}],
+      "imageUrl": "",
+      "id": "new_arrival_square_pizza_large",
+      "imagePath": "assets/images/new_arrival/square_pizza_large.jpg"
+    },
+    {
+      "category": "new_arrival",
+      "name": "Square Pizza Medium",
+      "description": "",
+      "variants": [{"label": "Medium", "price": 1149}],
+      "imageUrl": "",
+      "id": "new_arrival_square_pizza_medium",
+      "imagePath": "assets/images/new_arrival/square_pizza_medium.jpg"
+    },
+    {
+      "category": "drinks",
+      "name": "Ice Cream",
+      "description": "",
+      "variants": [
+        {"label": "Half", "price": 199},
+        {"label": "Full", "price": 349}
+      ],
+      "imageUrl": "",
+      "id": "drinks_ice_cream",
+      "imagePath": "assets/images/drinks/ice_cream.jpg"
+    },
+    {
+      "category": "drinks",
+      "name": "Cold Drink",
+      "description": "",
+      "variants": [
+        {"label": "345ml", "price": 90},
+        {"label": "500ml", "price": 110},
+        {"label": "1 Liter", "price": 170},
+        {"label": "1.5 Liter", "price": 220},
+        {"label": "Regular", "price": 80}
+      ],
+      "imageUrl": "",
+      "id": "drinks_cold_drink",
+      "imagePath": "assets/images/drinks/cold_drink.jpg"
+    },
+    {
+      "category": "drinks",
+      "name": "Water",
+      "description": "",
+      "variants": [
+        {"label": "Small", "price": 60},
+        {"label": "Large", "price": 120}
+      ],
+      "imageUrl": "",
+      "id": "drinks_water",
+      "imagePath": "assets/images/drinks/water.jpg"
+    }
+  ],
+  "deals": [
+    {
+      "number": 1,
+      "title": "Deal # 01",
+      "contents": ["Chicken Tikka Pizza Large", "1 Liter Drink"],
+      "price": 1399,
+      "imageUrl": "",
+      "id": "deal_01",
+      "imagePath": "assets/images/deals/deal_01.jpg"
+    },
+    {
+      "number": 2,
+      "title": "Deal # 02",
+      "contents": ["Jerry Special Pizza Large", "1 Liter Drink"],
+      "price": 1899,
+      "imageUrl": "",
+      "id": "deal_02",
+      "imagePath": "assets/images/deals/deal_02.jpg"
+    },
+    {
+      "number": 3,
+      "title": "Deal # 03",
+      "contents": ["Chicken Tikka Pizza XL", "1.5 Liter Drink"],
+      "price": 1899,
+      "imageUrl": "",
+      "id": "deal_03",
+      "imagePath": "assets/images/deals/deal_03.jpg"
+    },
+    {
+      "number": 4,
+      "title": "Deal # 04",
+      "contents": ["2 Chicken Tikka Pizza Large", "1.5 Liter Drink"],
+      "price": 2649,
+      "imageUrl": "",
+      "id": "deal_04",
+      "imagePath": "assets/images/deals/deal_04.jpg"
+    },
+    {
+      "number": 5,
+      "title": "Deal # 05",
+      "contents": ["2 Chicken Tikka Pizza Small", "1 Liter Drink"],
+      "price": 1049,
+      "imageUrl": "",
+      "id": "deal_05",
+      "imagePath": "assets/images/deals/deal_05.jpg"
+    },
+    {
+      "number": 6,
+      "title": "Deal # 06",
+      "contents": ["Chicken Tikka Pizza Large", "10 Hot Wings", "1 Liter Drink"],
+      "price": 1849,
+      "imageUrl": "",
+      "id": "deal_06",
+      "imagePath": "assets/images/deals/deal_06.jpg"
+    },
+    {
+      "number": 7,
+      "title": "Deal # 07",
+      "contents": ["Jerry Special Pizza Medium", "2 Zinger Burger", "1 Liter Drink"],
+      "price": 2099,
+      "imageUrl": "",
+      "id": "deal_07",
+      "imagePath": "assets/images/deals/deal_07.jpg"
+    },
+    {
+      "number": 8,
+      "title": "Deal # 08",
+      "contents": ["Chicken Tikka Pizza Large", "Fajita Pizza Small", "1.5 Liter Drink"],
+      "price": 1849,
+      "imageUrl": "",
+      "id": "deal_08",
+      "imagePath": "assets/images/deals/deal_08.jpg"
+    },
+    {
+      "number": 9,
+      "title": "Deal # 09",
+      "contents": ["Chicken Tikka Pizza Medium", "500ml Drink"],
+      "price": 1099,
+      "imageUrl": "",
+      "id": "deal_09",
+      "imagePath": "assets/images/deals/deal_09.jpg"
+    },
+    {
+      "number": 10,
+      "title": "Deal # 10",
+      "contents": ["Chicken Tikka Pizza Large", "2 Zinger Burger + Large Fries", "1.5 Liter Drink"],
+      "price": 2449,
+      "imageUrl": "",
+      "id": "deal_10",
+      "imagePath": "assets/images/deals/deal_10.jpg"
+    },
+    {
+      "number": 11,
+      "title": "Deal # 11",
+      "contents": ["Chicken Tikka Pizza Small", "Zinger Burger", "345ml Drink"],
+      "price": 949,
+      "imageUrl": "",
+      "id": "deal_11",
+      "imagePath": "assets/images/deals/deal_11.jpg"
+    },
+    {
+      "number": 12,
+      "title": "Deal # 12",
+      "contents": ["Junior Zinger Burger", "Small Fries", "345ml Drink"],
+      "price": 559,
+      "imageUrl": "",
+      "id": "deal_12",
+      "imagePath": "assets/images/deals/deal_12.jpg"
+    },
+    {
+      "number": 13,
+      "title": "Deal # 13",
+      "contents": ["4 Junior Zinger Burger", "1.5 Liter Drink"],
+      "price": 1499,
+      "imageUrl": "",
+      "id": "deal_13",
+      "imagePath": "assets/images/deals/deal_13.jpg"
+    },
+    {
+      "number": 14,
+      "title": "Deal # 14",
+      "contents": ["2 Junior Zinger Burger", "2 345ml Drink"],
+      "price": 799,
+      "imageUrl": "",
+      "id": "deal_14",
+      "imagePath": "assets/images/deals/deal_14.jpg"
+    },
+    {
+      "number": 15,
+      "title": "Deal # 15",
+      "contents": ["Chicken Tikka Pizza Large", "1 Crunchy Pasta Small", "1 Liter Drink"],
+      "price": 1749,
+      "imageUrl": "",
+      "id": "deal_15",
+      "imagePath": "assets/images/deals/deal_15.jpg"
+    },
+    {
+      "number": 16,
+      "title": "Deal # 16",
+      "contents": ["Chicken Tikka Pizza Small", "Macroni Pasta Small", "345ml Drink"],
+      "price": 919,
+      "imageUrl": "",
+      "id": "deal_16",
+      "imagePath": "assets/images/deals/deal_16.jpg"
+    },
+    {
+      "number": 17,
+      "title": "Deal # 17",
+      "contents": ["Chicken Tikka Pizza Small", "345ml Drink"],
+      "price": 499,
+      "imageUrl": "",
+      "id": "deal_17",
+      "imagePath": "assets/images/deals/deal_17.jpg"
+    },
+    {
+      "number": 18,
+      "title": "Deal # 18",
+      "contents": ["2 Chicken Shawarma", "2 345ml Drink"],
+      "price": 599,
+      "imageUrl": "",
+      "id": "deal_18",
+      "imagePath": "assets/images/deals/deal_18.jpg"
+    },
+    {
+      "number": 19,
+      "title": "Deal # 19",
+      "contents": ["Zinger Pratha / Shawarma", "Small Fries", "345ml Drink"],
+      "price": 499,
+      "imageUrl": "",
+      "id": "deal_19",
+      "imagePath": "assets/images/deals/deal_19.jpg"
+    },
+    {
+      "number": 20,
+      "title": "Deal # 20",
+      "contents": ["10 Fried Hot Wings", "Junior Zinger Burger", "345ml Drink"],
+      "price": 929,
+      "imageUrl": "",
+      "id": "deal_20",
+      "imagePath": "assets/images/deals/deal_20.jpg"
+    },
+    {
+      "number": 21,
+      "title": "Deal # 21 (Mufta)",
+      "contents": ["Large Pizza Any Flavour", "2 Junior Zinger Burger", "Macroni Pasta Small", "5 Nuggets", "1.5 Liter Drink"],
+      "price": 2699,
+      "imageUrl": "",
+      "id": "deal_21",
+      "imagePath": "assets/images/deals/deal_21.jpg"
+    }
+  ]
+}

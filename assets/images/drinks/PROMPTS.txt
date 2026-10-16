@@ -1,0 +1,12 @@
+FILE: ice_cream.jpg
+NAME: Ice Cream
+PROMPT: cup of mixed ice cream scoops with chocolate sauce, wafer and cherry on top, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: cold_drink.jpg
+NAME: Cold Drink
+PROMPT: chilled bottle of cola with water droplets and ice cubes in a glass, dark background, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: water.jpg
+NAME: Water
+PROMPT: bottle of mineral water with condensation droplets on a dark background, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

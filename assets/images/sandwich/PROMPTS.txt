@@ -1,0 +1,16 @@
+FILE: chicken_cheese.jpg
+NAME: Chicken Cheese
+PROMPT: grilled chicken cheese sandwich cut diagonally, melted cheese, toasted bread, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: chicken_club.jpg
+NAME: Chicken Club
+PROMPT: triple-layer club sandwich with chicken, egg, lettuce, tomato, cut in triangles with toothpicks, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: jerrys_special_sandwich.jpg
+NAME: Jerry's Special Sandwich
+PROMPT: loaded special chicken sandwich with cheese, veggies and special sauce, cut in half, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: 3_cheese_bread.jpg
+NAME: 3 Cheese Bread
+PROMPT: garlic bread slices topped with three types of melted cheese, golden bubbly, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

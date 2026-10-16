@@ -1,0 +1,78 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+DartDevelopmentServiceException: DartDevelopmentServiceException: Failed to start Dart Development Service
+
+```
+```
+
+## flutter doctor
+
+```
+[32m[✓][39m Flutter (Channel stable, 3.38.7, on Microsoft Windows
+    [Version 10.0.22000.2538], locale en-PK) [1,252ms]
+    [32m•[39m Flutter version 3.38.7 on channel stable at
+      C:\flutter\src\flutter
+    [32m•[39m Upstream repository
+      https://github.com/flutter/flutter.git
+    [32m•[39m Framework revision 3b62efc2a3 (9 months ago),
+      2026-01-13 13:47:42 -0800
+    [32m•[39m Engine revision 78fc3012e4
+    [32m•[39m Dart version 3.10.7
+    [32m•[39m DevTools version 2.51.1
+    [32m•[39m Feature flags: enable-web, enable-linux-desktop,
+      enable-macos-desktop, enable-windows-desktop,
+      enable-android, enable-ios, cli-animations,
+      enable-native-assets, omit-legacy-version-file,
+      enable-lldb-debugging
+
+[32m[✓][39m Windows Version (11 Pro 64-bit, 21H2, 2009) [10.8s]
+
+[32m[✓][39m Android toolchain - develop for Android devices (Android
+    SDK version 36.1.0) [18.1s]
+    [32m•[39m Android SDK at C:\Users\nomi\AppData\Local\Android\Sdk
+    [32m•[39m Emulator version 36.2.12.0 (build_id 14214601)
+      (CL:N/A)
+    [32m•[39m Platform android-36, build-tools 36.1.0
+    [32m•[39m Java binary at: C:\Program Files\Android\Android
+      Studio\jbr\bin\java
+      This is the JDK bundled with the latest Android Studio
+      installation on this machine.
+      To manually set the JDK path, use: `flutter config
+      --jdk-dir="path/to/jdk"`.
+    [32m•[39m Java version OpenJDK Runtime Environment (build
+      21.0.8+-14196175-b1038.72)
+    [32m•[39m All Android licenses accepted.
+
+[32m[✓][39m Chrome - develop for the web [692ms]
+    [32m•[39m Chrome at C:\Program
+      Files\Google\Chrome\Application\chrome.exe
+
+[33m[!][39m Visual Studio - develop Windows apps (Visual Studio
+    Build Tools 2022 17.14.21 (November 2025)) [690ms]
+    [32m•[39m Visual Studio at C:\Program Files (x86)\Microsoft
+      Visual Studio\2022\BuildTools
+    [32m•[39m Visual Studio Build Tools 2022 version 17.14.36717.8
+    [31m✗[39m The current Visual Studio installation is incomplete.
+      Please use Visual Studio Installer to complete the
+      installation or reinstall Visual Studio.
+
+[32m[✓][39m Connected device (3 available) [579ms]
+    [32m•[39m Windows (desktop) • windows • windows-x64    •
+      Microsoft Windows [Version 10.0.22000.2538]
+    [32m•[39m Chrome (web)      • chrome  • web-javascript • Google
+      Chrome 154.0.8037.93
+    [32m•[39m Edge (web)        • edge    • web-javascript •
+      Microsoft Edge 154.0.4258.53
+
+[32m[✓][39m Network resources [1,317ms]
+    [32m•[39m All expected network resources are available.
+
+[33m![39m Doctor found issues in 1 category.
+```

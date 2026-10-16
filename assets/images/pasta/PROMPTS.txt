@@ -1,0 +1,12 @@
+FILE: cheese_macroni_pasta.jpg
+NAME: Cheese Macroni Pasta
+PROMPT: creamy cheesy macaroni pasta in a white bowl, steam rising, herbs on top, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: crunchy_pasta.jpg
+NAME: Crunchy Pasta
+PROMPT: creamy macaroni pasta topped with crispy fried chicken crumb crunch, in a bowl, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: chicken_spicy_macroni.jpg
+NAME: Chicken Spicy Macroni
+PROMPT: spicy red masala macaroni pasta with chicken pieces and chili flakes in a bowl, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

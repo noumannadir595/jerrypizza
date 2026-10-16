@@ -1,0 +1,24 @@
+FILE: chicken_tikka.jpg
+NAME: Chicken Tikka
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Pizza Sauce, Tikka Chicken, Cheese, Tomatoes, Capsicum, Black Olives, Onions, glossy melted cheese, golden crust
+
+FILE: chicken_fajita.jpg
+NAME: Chicken Fajita
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Pizza Sauce, Fajita Chicken, Cheese, Capsicum, Green Jalapeno, Mushrooms, Onions, glossy melted cheese, golden crust
+
+FILE: hot_and_spicy.jpg
+NAME: Hot & Spicy
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Pizza Sauce, Spicy Chicken, Cheese, Capsicum, Red Jalapeno, glossy melted cheese, golden crust
+
+FILE: picklish_tikka.jpg
+NAME: Picklish Tikka
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Picklish Sauce, Tikka Chicken, Cheese, Tomatoes, Capsicum, Onions, Black Olives, glossy melted cheese, golden crust
+
+FILE: cheese_and_kebab.jpg
+NAME: Cheese & Kebab
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Special Sauce, Seekh Kebab, Cheese, Black Olives, Capsicum, Onions, glossy melted cheese, golden crust
+
+FILE: bar_b_q_tikka.jpg
+NAME: Bar.B.Q Tikka
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Pizza Sauce, Seekh Kebab, Tikka Chicken, Cheese, Black Olives, Capsicum, glossy melted cheese, golden crust
+

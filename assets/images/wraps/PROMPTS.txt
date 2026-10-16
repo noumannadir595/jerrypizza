@@ -1,0 +1,20 @@
+FILE: kebab_pratha.jpg
+NAME: Kebab Pratha
+PROMPT: paratha roll filled with seekh kebab, onions and green chutney, cut in half to show filling, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: zinger_pratha.jpg
+NAME: Zinger Pratha
+PROMPT: paratha roll filled with crispy zinger chicken strips, lettuce and mayo, cut in half, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: cheese_pratha.jpg
+NAME: Cheese Pratha
+PROMPT: paratha roll with melted stretchy cheese and chicken filling, cut in half, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: zinger_shawarma.jpg
+NAME: Zinger Shawarma
+PROMPT: zinger chicken shawarma wrap with crispy chicken, garlic sauce and veggies, wrapped in paper, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: chicken_shawarma.jpg
+NAME: Chicken Shawarma
+PROMPT: classic chicken shawarma wrap with garlic sauce, pickles and salad, wrapped in paper, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+

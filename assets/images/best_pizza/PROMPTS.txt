@@ -1,0 +1,24 @@
+FILE: jerrys_special.jpg
+NAME: Jerry's Special
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, stuffed crust edge, toppings: Edge Filling With Chicken & Cheese, Pizza Sauce, Tikka Chicken, Cheese, Tomatoes, Capsicum, Black Olives, Sesame Seeds, Special Sauce, Onions, Sweet Corns, glossy melted cheese, golden crust
+
+FILE: yummy_malai_boti.jpg
+NAME: Yummy Malai Boti
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, stuffed crust edge, toppings: Edge Filling With Chicken & Sauce, Pizza Sauce, Malai Boti Chicken, Cheese, Tomatoes, Sesame Seeds, Special Sauce, Black Olives, Mushrooms, glossy melted cheese, golden crust
+
+FILE: behari_kebab.jpg
+NAME: Behari Kebab
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Pizza Sauce, Tikka Chicken, Cheese, Kebab, Tomatoes, Capsicum, Black Olives, Special Sauce, glossy melted cheese, golden crust
+
+FILE: bubble_cheese_stuffer.jpg
+NAME: Bubble Cheese Stuffer
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, stuffed crust edge, toppings: Edge Filled With Cheese, Tikka Chicken, Red Jalapeno, Special Sauce, Cheese, Tomatoes, Capsicum, Onions, Black Olives, glossy melted cheese, golden crust
+
+FILE: crispy_crunch_pizza.jpg
+NAME: Crispy Crunch Pizza
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Special Sauce, Crunchy Zinger Chicken, Cheese, Green Jalapeno, Capsicum, Mushroom, Special Sauce Topping, glossy melted cheese, golden crust
+
+FILE: cheese_and_pepperoni.jpg
+NAME: Cheese & Pepperoni
+PROMPT: top-down view of a whole round pizza on a dark wooden board, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo, toppings: Special Sauce, Chicken Pepperoni, Cheese, Kebab, Capsicum, Black Olives, glossy melted cheese, golden crust
+

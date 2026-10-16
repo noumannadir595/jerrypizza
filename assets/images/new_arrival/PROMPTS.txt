@@ -1,0 +1,20 @@
+FILE: special_pizza_pratha.jpg
+NAME: Special Pizza Pratha
+PROMPT: paratha folded like a pizza with chicken, cheese and pizza sauce, cut in wedges, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: shawarma_pizza.jpg
+NAME: Shawarma Pizza
+PROMPT: pizza topped with shawarma chicken, garlic sauce drizzle, cheese and veggies, top-down, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: delight_shawarma.jpg
+NAME: Delight Shawarma
+PROMPT: large loaded special shawarma wrap with chicken, cheese and sauces, cut in half, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: square_pizza_large.jpg
+NAME: Square Pizza Large
+PROMPT: large rectangular square-cut pizza loaded with chicken, cheese and veggies, top-down on a tray, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
+FILE: square_pizza_medium.jpg
+NAME: Square Pizza Medium
+PROMPT: medium rectangular square-cut pizza with chicken, cheese and veggies, top-down on a tray, professional food photography, appetizing, high detail, soft studio lighting, dark moody background, restaurant menu style, no text, no watermark, no logo
+
