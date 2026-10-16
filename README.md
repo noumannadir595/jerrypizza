@@ -8,7 +8,7 @@ A complete food ordering solution for Jerry Pizza & Chicken Karrahi — built wi
 
 **Jerry Pizza & Chicken Karrahi** is a full-stack food ordering application designed for a local restaurant in Sahiwal, Pakistan. It provides a seamless digital ordering experience for customers and a complete management system for the restaurant admin.
 
-**Live Web App:** [jerryfastfood-25243.web.app](https://jerryfastfood-25243.web.app)
+
 
 ---
 
@@ -236,7 +236,6 @@ Copyright 2026 Nouman Nadir. All rights reserved.
 **Nouman Nadir**
 
 - Email: [noumannadir595@gmail.com](mailto:noumannadir595@gmail.com)
-- Web: [jerryfastfood-25243.web.app](https://jerryfastfood-25243.web.app)
 
 ---
 
